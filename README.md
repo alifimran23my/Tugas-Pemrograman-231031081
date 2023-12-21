@@ -6,4 +6,4 @@
 * Tugas 1 : Program Kelipatan 4 `231031081-Alif imran-Tugas1-10c.py`
 * Tugas 2 : Tupple `231031081-Alif imran-Tugas-9-C.py`
 * Tugas 3 : Program Penjumlahan waktu `231031081-Alif imran-Tugas21-10c.py`
-* Tugas 4 : Program Selisih Waktu `231031081-Alif imran-Tugas-22-10c.py
+* Tugas 4 : Program Selisih Waktu `231031081-Alif imran-Tugas-22-10c.py`
